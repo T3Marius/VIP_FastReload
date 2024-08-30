@@ -1,2 +1,2 @@
-# VIP_FastReload
-VIP Module for VIPCore. 
+# In vip.json
+"FastReload": true
